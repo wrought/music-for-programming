@@ -1,0 +1,7 @@
+argparse==1.2.1
+beautifulsoup4==4.3.2
+certifi==14.05.14
+distribute==0.6.24
+requests==2.4.0
+wget==2.2
+wsgiref==0.1.2
